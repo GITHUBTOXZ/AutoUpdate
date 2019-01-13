@@ -1,0 +1,8 @@
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Release\BTAutoUpdateTest.exe.config
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Release\BTAutoUpdateTest.exe
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Release\BTAutoUpdateTest.pdb
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Release\BTAutoUpdate.dll
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Release\Microsoft.Web.Administration.dll
+D:\Dome\AutoUpdate\BTAutoUpdateTest\obj\Release\BTAutoUpdateTest.exe
+D:\Dome\AutoUpdate\BTAutoUpdateTest\obj\Release\BTAutoUpdateTest.pdb

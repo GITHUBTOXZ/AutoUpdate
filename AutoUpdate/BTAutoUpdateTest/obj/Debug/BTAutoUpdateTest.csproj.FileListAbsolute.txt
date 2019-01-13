@@ -1,0 +1,10 @@
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Debug\BTAutoUpdateTest.exe.config
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Debug\BTAutoUpdateTest.exe
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Debug\BTAutoUpdateTest.pdb
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Debug\Microsoft.Web.Administration.dll
+D:\Dome\AutoUpdate\BTAutoUpdateTest\obj\Debug\BTAutoUpdateTest.exe
+D:\Dome\AutoUpdate\BTAutoUpdateTest\obj\Debug\BTAutoUpdateTest.pdb
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Debug\BTAutoUpdate.dll
+D:\Dome\AutoUpdate\BTAutoUpdateTest\bin\Debug\BTAutoUpdate.pdb
+D:\Dome\AutoUpdate\BTAutoUpdateTest\obj\Debug\BTAutoUpdateTest.csprojResolveAssemblyReference.cache

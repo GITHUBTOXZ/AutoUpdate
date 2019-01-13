@@ -1,0 +1,12 @@
+D:\Dome\AutoUpdate\BTAutoUpdate\bin\Debug\AutoUpdate.dll
+D:\Dome\AutoUpdate\BTAutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\Dome\AutoUpdate\BTAutoUpdate\obj\Debug\AutoUpdate.dll
+D:\Dome\AutoUpdate\BTAutoUpdate\obj\Debug\AutoUpdate.pdb
+D:\Dome\AutoUpdate\BTAutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\bin\Debug\AutoUpdate.dll
+C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\bin\Debug\AutoUpdate.pdb
+C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\obj\Debug\AutoUpdate.csproj.CopyComplete
+C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\obj\Debug\AutoUpdate.dll
+C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\obj\Debug\AutoUpdate.pdb
+C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\obj\Debug\AutoUpdate.csprojAssemblyReference.cache

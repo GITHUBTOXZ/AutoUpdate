@@ -1,0 +1,24 @@
+2018/10/28 1:34:21
+文件压缩成功
+
+2018/10/28 1:36:15
+制作更新包失败：System.ArgumentException: 必须将 Argument 初始化为 false
+参数名: lockTaken
+   在 System.Threading.Monitor.ThrowLockTakenException()
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 Down.Tool.LogHelper.AppendLog(String msg)
+   在 Down.Tool.ZipHelper.Compress(String DirectoryToZip, String ZipedPath, String ZipedFileName, Boolean IsEncrypt)
+   在 Down.MakeUpPackage.make_btn_Click(Object sender, EventArgs e)
+
+2018/10/28 1:45:14
+---开始压缩文件---
+
+2018/10/28 1:45:14
+文件压缩成功
+
+2018/10/28 1:45:20
+---开始压缩文件---
+
+2018/10/28 1:45:20
+文件压缩成功
+

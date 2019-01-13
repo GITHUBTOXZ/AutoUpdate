@@ -1,0 +1,124 @@
+2019-01-12 23:27:27
+------------初始化配置开始---------------
+
+2019-01-12 23:27:27
+远程文件下载地址：http://127.0.0.1:8090//
+
+2019-01-12 23:27:27
+------------初始化配置结束---------------
+
+2019-01-12 23:27:29
+------------初始化配置开始---------------
+
+2019-01-12 23:27:29
+远程文件下载地址：http://127.0.0.1:8090//
+
+2019-01-12 23:27:29
+------------初始化配置结束---------------
+
+2019-01-12 23:27:36
+------------更新站点[test]文件开始---------------
+
+2019-01-12 23:27:36
+------------更新站点[test]文件结束---------------
+
+2019-01-12 23:28:36
+------------更新站点[test]文件开始---------------
+
+2019-01-12 23:30:25
+------------初始化配置开始---------------
+
+2019-01-12 23:30:25
+远程文件下载地址：http://127.0.0.1:8090//
+
+2019-01-12 23:30:25
+------------初始化配置结束---------------
+
+2019-01-12 23:30:27
+------------初始化配置开始---------------
+
+2019-01-12 23:30:27
+远程文件下载地址：http://127.0.0.1:8090//
+
+2019-01-12 23:30:27
+------------初始化配置结束---------------
+
+2019-01-12 23:30:35
+------------更新站点[test]文件开始---------------
+
+2019-01-12 23:30:38
+更新站点文件失败:System.Exception: 更新文件失败：System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   在 System.Net.WebClient.DownloadFile(String address, String fileName)
+   在 AutoUpdate.Update.DownUpdateFileForSite(String downFileName, String siteFilePath) 位置 C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\Update.cs:行号 168
+   在 AutoUpdate.Update.DownUpdateFileForSite(String downFileName, String siteFilePath) 位置 C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\Update.cs:行号 180
+   在 AutoUpdate.Update.ExecuteUpdateSiteTask(String siteName, String downFileName, String filePath) 位置 C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\Update.cs:行号 110
+
+2019-01-12 23:30:38
+------------更新站点[test]文件结束---------------
+
+2019-01-12 23:30:52
+------------更新站点[test]文件开始---------------
+
+2019-01-12 23:30:53
+更新站点文件失败:System.Exception: 更新文件失败：System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   在 System.Net.WebClient.DownloadFile(String address, String fileName)
+   在 AutoUpdate.Update.DownUpdateFileForSite(String downFileName, String siteFilePath) 位置 C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\Update.cs:行号 168
+   在 AutoUpdate.Update.DownUpdateFileForSite(String downFileName, String siteFilePath) 位置 C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\Update.cs:行号 180
+   在 AutoUpdate.Update.ExecuteUpdateSiteTask(String siteName, String downFileName, String filePath) 位置 C:\Users\夏昭\Desktop\AutoUpdate\BTAutoUpdate\Update.cs:行号 110
+
+2019-01-12 23:30:53
+------------更新站点[test]文件结束---------------
+
+2019-01-12 23:31:02
+------------更新站点[test]文件开始---------------
+
+2019-01-12 23:31:05
+------------更新站点[test]文件结束---------------
+
+2019-01-12 23:48:02
+------------初始化配置开始---------------
+
+2019-01-12 23:48:02
+远程文件下载地址：http://127.0.0.1:8090//
+
+2019-01-12 23:48:02
+------------初始化配置结束---------------
+
+2019-01-12 23:48:05
+------------初始化配置开始---------------
+
+2019-01-12 23:48:05
+远程文件下载地址：http://127.0.0.1:8090//
+
+2019-01-12 23:48:05
+------------初始化配置结束---------------
+
+2019-01-12 23:48:51
+------------初始化配置开始---------------
+
+2019-01-12 23:48:51
+远程文件下载地址：http://127.0.0.1:8090//
+
+2019-01-12 23:48:51
+------------初始化配置结束---------------
+
+2019-01-12 23:58:15
+------------初始化配置开始---------------
+
+2019-01-12 23:58:15
+远程文件下载地址：http://127.0.0.1:8090//
+
+2019-01-12 23:58:15
+------------初始化配置结束---------------
+
+2019-01-12 23:58:35
+------------初始化配置开始---------------
+
+2019-01-12 23:58:35
+远程文件下载地址：http://127.0.0.1:8090//
+
+2019-01-12 23:58:35
+------------初始化配置结束---------------
+
