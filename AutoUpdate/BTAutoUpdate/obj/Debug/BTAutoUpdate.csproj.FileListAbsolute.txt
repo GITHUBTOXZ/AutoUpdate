@@ -1,5 +1,0 @@
-D:\Dome\AutoUpdate\BTAutoUpdate\bin\Debug\BTAutoUpdate.pdb
-D:\Dome\AutoUpdate\BTAutoUpdate\obj\Debug\BTAutoUpdate.pdb
-D:\Dome\AutoUpdate\BTAutoUpdate\bin\Debug\BTAutoUpdate.dll
-D:\Dome\AutoUpdate\BTAutoUpdate\obj\Debug\BTAutoUpdate.dll
-D:\Dome\AutoUpdate\BTAutoUpdate\obj\Debug\BTAutoUpdate.csprojResolveAssemblyReference.cache

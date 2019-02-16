@@ -1,6 +1,0 @@
-D:\Dome\AutoUpdate\BTAutoUpdate\bin\Release\BTAutoUpdate.dll
-D:\Dome\AutoUpdate\BTAutoUpdate\bin\Release\BTAutoUpdate.pdb
-D:\Dome\AutoUpdate\BTAutoUpdate\bin\Release\ICSharpCode.SharpZipLib.dll
-D:\Dome\AutoUpdate\BTAutoUpdate\bin\Release\Microsoft.Web.Administration.dll
-D:\Dome\AutoUpdate\BTAutoUpdate\obj\Release\BTAutoUpdate.dll
-D:\Dome\AutoUpdate\BTAutoUpdate\obj\Release\BTAutoUpdate.pdb
